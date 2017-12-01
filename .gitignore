@@ -27,3 +27,4 @@ test-results
 
 # NuGet Packages Directory
 packages
+/.vs
